@@ -1,0 +1,5 @@
+{
+  "extends": "@saritasa/tslint-config-angular",
+  "rules": {},
+  "rulesDirectory": ["codelyzer"]
+}
